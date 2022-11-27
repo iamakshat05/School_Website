@@ -8,7 +8,7 @@ import Gallery from './components/gallery';
 function App() {
   return (
     <>
-    //this is Akshat branch
+    //this is Akshat k saath ramesh ka branch
     
     <Router>
       <Routes>
