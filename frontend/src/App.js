@@ -8,6 +8,8 @@ import Gallery from './components/gallery';
 function App() {
   return (
     <>
+    //this is ramesh branch
+    
     <Router>
       <Routes>
         <Route exact path="/" element={<Home/>}/>
